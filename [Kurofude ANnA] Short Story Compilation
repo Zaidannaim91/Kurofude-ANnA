@@ -1,0 +1,33 @@
+{
+   "title":"[Kurofude ANnA] Short Story Compilation",
+   "description":"",
+   "author":"Kurofude ANnA",
+   "artist":"Kurofude ANnA",
+   "cover":"https://i.imgur.com/FsbbSiH.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/YtVNerb"
+         },
+         "last_updated":1624606143,
+         "title":"[Kurofude ANnA] Sweets After 5",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/q4o6iIl"
+         },
+         "last_updated":1624606143,
+         "title":"[Kurofude ANnA] Swimmer Splash",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/FL021nU"
+         },
+         "last_updated":1624606143,
+         "title":"[Kurofude ANnA] Play! Hard Mode",
+         "volume":"3"
+      }
+   }
+}
